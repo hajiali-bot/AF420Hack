@@ -50,12 +50,33 @@ def jalan(z):
 
 #Dev:Haji_Ali
 ##### LOGO ####
-██╗  ██╗ █████╗      ██╗██╗     █████╗ ██╗     ██╗
-██║  ██║██╔══██╗     ██║██║    ██╔══██╗██║     ██║
-███████║███████║     ██║██║    ███████║██║     ██║
-██╔══██║██╔══██║██   ██║██║    ██╔══██║██║     ██║
-██║  ██║██║  ██║╚█████╔╝██║    ██║  ██║███████╗██║
-╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝ ╚═╝    ╚═╝  ╚═╝╚══════╝╚═╝
+
+                                                                                                             
+                                                                                                             
+HHHHHHHHH     HHHHHHHHH                   jjjj   iiii                      AAA               lllllll   iiii  
+H:::::::H     H:::::::H                  j::::j i::::i                    A:::A              l:::::l  i::::i 
+H:::::::H     H:::::::H                   jjjj   iiii                    A:::::A             l:::::l   iiii  
+HH::::::H     H::::::HH                                                 A:::::::A            l:::::l         
+  H:::::H     H:::::H    aaaaaaaaaaaaa  jjjjjjjiiiiiii                 A:::::::::A            l::::l iiiiiii 
+  H:::::H     H:::::H    a::::::::::::a j:::::ji:::::i                A:::::A:::::A           l::::l i:::::i 
+  H::::::HHHHH::::::H    aaaaaaaaa:::::a j::::j i::::i               A:::::A A:::::A          l::::l  i::::i 
+  H:::::::::::::::::H             a::::a j::::j i::::i              A:::::A   A:::::A         l::::l  i::::i 
+  H:::::::::::::::::H      aaaaaaa:::::a j::::j i::::i             A:::::A     A:::::A        l::::l  i::::i 
+  H::::::HHHHH::::::H    aa::::::::::::a j::::j i::::i            A:::::AAAAAAAAA:::::A       l::::l  i::::i 
+  H:::::H     H:::::H   a::::aaaa::::::a j::::j i::::i           A:::::::::::::::::::::A      l::::l  i::::i 
+  H:::::H     H:::::H  a::::a    a:::::a j::::j i::::i          A:::::AAAAAAAAAAAAA:::::A     l::::l  i::::i 
+HH::::::H     H::::::HHa::::a    a:::::a j::::ji::::::i        A:::::A             A:::::A   l::::::li::::::i
+H:::::::H     H:::::::Ha:::::aaaa::::::a j::::ji::::::i       A:::::A               A:::::A  l::::::li::::::i
+H:::::::H     H:::::::H a::::::::::aa:::aj::::ji::::::i      A:::::A                 A:::::A l::::::li::::::i
+HHHHHHHHH     HHHHHHHHH  aaaaaaaaaa  aaaaj::::jiiiiiiii     AAAAAAA                   AAAAAAAlllllllliiiiiiii
+                                         j::::j                                                              
+                               jjjj      j::::j                                                              
+                              j::::jj   j:::::j                                                              
+                              j::::::jjj::::::j                                                              
+                               jj::::::::::::j                                                               
+                                 jjj::::::jjj                                                                
+                                    jjjjjj                                                                   
+
 def tik():
 	titik = ['.   ','..  ','... ']
 	for o in titik:
