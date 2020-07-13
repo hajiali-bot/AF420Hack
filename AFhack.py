@@ -1,7 +1,7 @@
-!/usr/bin/python2
+#!/usr/bin/python2
 #coding=utf-8
 #The Credit For This Code Goes To Haji Ali
-#If You Wanna Take Credits For This Code, I will fuck u...
+#If You Wanna Take Credits For This Code, Please Look Yourself Again...
 #Reserved2020
 
 
@@ -48,7 +48,7 @@ def jalan(z):
 		sys.stdout.flush()
 		time.sleep(0.07)
 
-#Dev:Haji_Ali
+#Dev:Mansoor_Khan
 ##### LOGO #####
 
 ██╗  ██╗ █████╗      ██╗██╗ █████╗ ██╗     ██╗
@@ -57,13 +57,9 @@ def jalan(z):
 ██╔══██║██╔══██║██   ██║██║██╔══██║██║     ██║
 ██║  ██║██║  ██║╚█████╔╝██║██║  ██║███████╗██║
 ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝ ╚═╝╚═╝  ╚═╝╚══════╝╚═╝
-\033[1;93m██ 20% *___*
-\033[1;97m███ 40% *___*
-\033[1;96m████ 60% *___*
-\033[1;91m█████ 80% *___*
-\033[1;93m██████ 100% *___*                                           
+\033[1;93m███▓▒░░._\033[1;97mHaji Ali\033[1;93m_.░░▒▓███►
+\033[1;97m«--------------------\033[1;92m✧\033[1;97m--------------------»"""
 
-                                              
 def tik():
 	titik = ['.   ','..  ','... ']
 	for o in titik:
@@ -88,14 +84,14 @@ print  """
 \033[1;97m╰╮╭╮╭┫┃━┫╰┫╰━┫╰╯┃┃┃┃┃━┫\033[0m
 \033[1;97m╱╰╯╰╯╰━━┻━┻━━┻━━┻┻┻┻━━╯\033[1;97mv 1.9\033[0m
 \033[1;91m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\033[1;93m๑۩۩๑\033[1;91m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
-\033[1;91mAuthor©\033[1;91m: \033[1;93mKamran Pathan
+\033[1;91mAuthor©\033[1;91m: \033[1;93mHaji  Ali
 
-\033[1;91mYoutube\033[1;91m: \033[1;93mWE ARE ANONYMOUS.
+\033[1;91mYoutube\033[1;91m: \033[1;93mWE Haji Ali.
 
-\033[1;91mFacebook\033[1;91m: \033[1;93mhttps://www.facebook.com/pokhtoon007
+\033[1;91mFacebook\033[1;91m: \033[1;93mhttps://www.facebook.com/Haji Ali
 \033[1;91m«--------------------\033[1;93m✧\033[1;91m--------------------»"""
 jalan("\033[1;97m Please Don't Clone Pakistani Facebook Idz   ")
-jalan('\033[1;97m Username KAMRAN Password PAKHTOON   ')
+jalan('\033[1;97m Username Haji Password Ali   ')
 jalan('\033[1;97m██ 39%  ')
 jalan("\033[1;91m ███ 49%  ")
 jalan("\033[1;97m  ████ 76%  ")
@@ -103,8 +99,8 @@ jalan("\033[1;93m   █████ 89%  ")
 jalan("\033[1;96m    ██████ 100%  ")
 print "\033[1;91m«-------------\033[1;93mLogin With Tool\033[1;91m-------------»"
 
-CorrectUsername = "KAMRAN"
-CorrectPassword = "PAKHTOON"
+CorrectUsername = "Haji"
+CorrectPassword = "Ali"
 
 loop = 'true'
 while (loop == 'true'):
@@ -120,7 +116,7 @@ while (loop == 'true'):
             os.system('xdg-open https://youtu.be/53tvjO3Rwns')
     else:
         print "\033[1;91mWrong Username"
-        os.system('xdg-open https://youtu.be/53tvjO3Rwns')
+        os.system('xdg-openhttps://t.me/joinchat/AAAAAEna_ZHQHhskOjc5fg')
 
 def login():
 	os.system('clear')
@@ -420,16 +416,32 @@ def pilih_super():
 	print '\033[1;92mProcess Has Been Completed\033[1;92m....'
 	print"\033[1;92mTotal OK/\x1b[1;93mCP \033[1;91m: \033[1;92m"+str(len(oks))+"\033[1;97m/\033[1;93m"+str(len(cekpoint))
 	print """
-              .--,       .--,
-             ( (  \.---./  ) )
-              '.__/o   o\__.'
-                 {=  ^  =}
-                  >  -  <
-.-------------.""`-------`"".-------------.
-: \033[1;92m     HOPE YOU ENJOY MY COMMAND..    \033[1;93m :
-'-----------------------------------------' 
-                ___)( )(___
-               (((__) (__)))"""
+                            ..:::::::::..
+           ..:::aad8888888baa:::..
+        .::::d:?88888888888?::8b::::.
+      .:::d8888:?88888888??a888888b:::.
+    .:::d8888888a8888888aa8888888888b:::.
+   ::::dP::::::::88888888888::::::::Yb::::
+  ::::dP:::::::::Y888888888P:::::::::Yb::::
+ ::::d8:::::::::::Y8888888P:::::::::::8b::::
+.::::88::::::::::::Y88888P::::::::::::88::::.
+:::::Y8baaaaaaaaaa88P:T:Y88aaaaaaaaaad8P:::::
+:::::::Y88888888888P::|::Y88888888888P:::::::
+::::::::::::::::888:::|:::888::::::::::::::::
+`:::::::::::::::8888888888888b::::::::::::::'
+ :::::::::::::::88888888888888::::::::::::::
+  :::::::::::::d88888888888888:::::::::::::
+   ::::::::::::88::88::88:::88::::::::::::
+    `::::::::::88::88::88:::88::::::::::'
+      `::::::::88::88::P::::88::::::::'
+        `::::::88::88:::::::88::::::'
+           ``:::::::::::::::::::''
+                ``:::::::::''     
+
+             
+              
+                 
+    
 	
 	raw_input("\n\033[1;96m[\033[1;97mBack\033[1;96m]")
 	menu()
