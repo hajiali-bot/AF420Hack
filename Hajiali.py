@@ -49,25 +49,16 @@ def jalan(z):
 		time.sleep(0.07)
 
 #Dev:Haji_Ali
-##### LOGO ####
+##### Logo ####
   
-                                                 
-                                                 
-               AAA               lllllll   iiii  
-              A:::A              l:::::l  i::::i 
-             A:::::A             l:::::l   iiii  
-            A:::::::A            l:::::l         
-           A:::::::::A            l::::l iiiiiii 
-          A:::::A:::::A           l::::l i:::::i 
-         A:::::A A:::::A          l::::l  i::::i 
-        A:::::A   A:::::A         l::::l  i::::i 
-       A:::::A     A:::::A        l::::l  i::::i 
-      A:::::AAAAAAAAA:::::A       l::::l  i::::i 
-     A:::::::::::::::::::::A      l::::l  i::::i 
-    A:::::AAAAAAAAAAAAA:::::A     l::::l  i::::i 
-   A:::::A             A:::::A   l::::::li::::::i
-  A:::::A               A:::::A  l::::::li::::::i
- A:::::A                 A:::::A lllllllliiiiiiii                                                                                                    
+  /$$$$$$  /$$ /$$
+ /$$__  $$| $$|__/
+| $$  \ $$| $$ /$$
+| $$$$$$$$| $$| $$
+| $$__  $$| $$| $$
+| $$  | $$| $$| $$
+| $$  | $$| $$| $$
+|__/  |__/|__/|__/                                                                                                 
 def tik():
 	titik = ['.   ','..  ','... ']
 	for o in titik:
